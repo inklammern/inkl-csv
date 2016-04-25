@@ -1,0 +1,17 @@
+{
+	"name": "inkl/csv",
+	"description": "csv services",
+	"license": "MIT",
+	"authors": [{
+		"name": "Marcus",
+		"email": ""
+	}],
+	"require": {
+		"php": ">= 5.5"
+	},
+	"autoload": {
+		"psr-4": {
+			"Inkl\\Csv\\": "src/"
+		}
+	}
+}
